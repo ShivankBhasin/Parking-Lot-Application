@@ -1,1 +1,2 @@
-# Parking-Lot-Application
+# Parking Lot Application
+This project is a simple implementation of a parking lot management system in Java. It consists of several classes namely ParkingApp, ParkingManager, CommandParser, ParkingLot and Car class, each serving a specific purpose in managing a parking lot.The program allows users to interact with a parking management system through various commands. It supports functionalities such as creating a parking lot, parking cars, leaving parking slots, and retrieving information about parked cars based on color or registration number.
